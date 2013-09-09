@@ -3,4 +3,5 @@ flask-skeleton
 
 Flask Skeleton App 
 
-Gold
+
+- Module Model
